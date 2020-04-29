@@ -1,0 +1,15 @@
+var slideDuration = 500;
+var slideTimeout = 3000;
+var navigationFadeIn = 500;
+var navigationFadeOut = 500;
+var navigationOpacityIn = 1.0;
+var navigationOpacityOut = 0.0;
+var navigationPanelOpacityIn = 1.0;
+var navigationPanelOpacityOut = 0.5;
+var gallerySliderImg = 0;
+var gallerySliderCount = 0;
+var galleryWidth = 0;
+var galleryHeight = 0;
+var slideBorder = 0; // 0 - inner, 1 - on right, 2 - on left
+var activeButton = null;
+var slideTimer = null;
